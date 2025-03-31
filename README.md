@@ -15,8 +15,8 @@ I'm passionate about technology and I'm currently studying **Full Stack Developm
 - **Currently studying:** Full Stack Development, Data Science
 
 ### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ldcastro-2/)
-- [Instagram](https://www.instagram.com/)
+- [LinkedIn](https://www.linkedin.com/in/luciana-de-castro-3086785a/)
+- [Instagram](https://www.instagram.com/lu_decastro/)
 - [GitHub](https://github.com/Ldcastro-2)
 
 ## My Stats
